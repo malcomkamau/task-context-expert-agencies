@@ -1,0 +1,11 @@
+C:\Users\Malcom\Documents\repositories\task-context-expert-agencies\organize-fs\target\debug\deps\console-441b1fa2bcf94cbf.d: C:\Users\Malcom\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\console-0.16.1\src\lib.rs C:\Users\Malcom\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\console-0.16.1\src\common_term.rs C:\Users\Malcom\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\console-0.16.1\src\kb.rs C:\Users\Malcom\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\console-0.16.1\src\term.rs C:\Users\Malcom\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\console-0.16.1\src\utils.rs C:\Users\Malcom\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\console-0.16.1\src\windows_term\mod.rs C:\Users\Malcom\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\console-0.16.1\src\ansi.rs
+
+C:\Users\Malcom\Documents\repositories\task-context-expert-agencies\organize-fs\target\debug\deps\libconsole-441b1fa2bcf94cbf.rmeta: C:\Users\Malcom\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\console-0.16.1\src\lib.rs C:\Users\Malcom\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\console-0.16.1\src\common_term.rs C:\Users\Malcom\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\console-0.16.1\src\kb.rs C:\Users\Malcom\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\console-0.16.1\src\term.rs C:\Users\Malcom\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\console-0.16.1\src\utils.rs C:\Users\Malcom\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\console-0.16.1\src\windows_term\mod.rs C:\Users\Malcom\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\console-0.16.1\src\ansi.rs
+
+C:\Users\Malcom\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\console-0.16.1\src\lib.rs:
+C:\Users\Malcom\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\console-0.16.1\src\common_term.rs:
+C:\Users\Malcom\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\console-0.16.1\src\kb.rs:
+C:\Users\Malcom\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\console-0.16.1\src\term.rs:
+C:\Users\Malcom\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\console-0.16.1\src\utils.rs:
+C:\Users\Malcom\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\console-0.16.1\src\windows_term\mod.rs:
+C:\Users\Malcom\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\console-0.16.1\src\ansi.rs:

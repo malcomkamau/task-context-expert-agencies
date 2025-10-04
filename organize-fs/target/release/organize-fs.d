@@ -1,0 +1,1 @@
+C:\Users\Malcom\Documents\repositories\task-context-expert-agencies\organize-fs\target\release\organize-fs.exe: C:\Users\Malcom\Documents\repositories\task-context-expert-agencies\organize-fs\src\main.rs
